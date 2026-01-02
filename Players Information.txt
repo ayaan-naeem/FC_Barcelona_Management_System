@@ -1,2 +1,4 @@
-Ayaan,Pakistani,18,56,st,RW, SS, CF,99,99,99,99,99,99,5,5
-Ali,Indian,19,55,CB,RB CDM,88,88,88,88,88,88,5,5
+Name,         Nationality, Age,  Height, Position, Alternate , Shooting, Passing,
+Lamine Yamal, Spain,       18,   62,     RW,     LW CAM CF,       99,       99
+Neyamr Jr,    Brazil,      34,   59,     LW,    CAM SS RW CF,      99,      99
+
