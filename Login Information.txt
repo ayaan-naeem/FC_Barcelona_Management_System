@@ -1,0 +1,12 @@
+ Role: admin
+ Email: admin@fcbarcelona.com
+ Password: 1234
+----------------------
+ Role: coach
+ Email: coach@fcbarcelona.com
+ Password: 1234
+----------------------
+ Role: admin
+ Email: admin@fcbarcelona.com
+ Password: 1234
+----------------------
